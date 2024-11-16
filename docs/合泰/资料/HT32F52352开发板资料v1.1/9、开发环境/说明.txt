@@ -1,0 +1,15 @@
+keil请按如下顺序安装：
+
+1，安装mdk_514.exe 
+2，安装Keil.STM32F1xx_DFP.1.0.5.pack 
+3，破解
+
+
+在线烧录软件 e-link32
+e-Link32_Pro_ICP_Tool_v028.exe
+
+ISP软件，支持USB直接烧录程序，boot脚接0进入烧录模式
+HT32_Flash_Programmer_v109a.exe
+
+虚拟串口驱动
+HT32_VCP_Driver_v110.exe

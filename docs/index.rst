@@ -12,3 +12,4 @@
    STM32/README.md
    电赛/README.md
    蓝桥杯嵌入式/README.md
+   tool/README.md
